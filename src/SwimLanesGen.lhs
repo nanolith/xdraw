@@ -47,6 +47,10 @@ We use the `Shapes` module for drawing shapes.
 
 > import Shapes
 
+We use the `Wrapped` module for unwrapping position information.
+
+> import Wrapped
+
 Semantic Analysis
 =================
 

@@ -3,6 +3,7 @@ module SwimLanesTest (tests) where
 
 import ParserHelpers
 import SwimLanes
+import Wrapped
 import Control.Applicative
 import Control.Monad
 import Data.Either

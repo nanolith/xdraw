@@ -5,7 +5,6 @@ This module describes the swim lanes data format which is parsed from
 `.swimlane` files.
 
 > module SwimLanes (
->       Wrapped (Wrapped, wrappedPosition, wrappedValue), unwrap,
 >       SwimLanes (SwimLanes, swimLaneLabels, swimLanes, swimLanePaths,
 >                  swimLaneStyles),
 >       Cell (Cell, cellGraphics, cellLabel, cellStyle, cellStyleRef, cellType,
